@@ -10,3 +10,29 @@ The application also provides facilities for cancellation of reservation. The re
 
 ## ER Diagram
 ![](images/er_diagram.PNG)
+
+
+## Back End(MYSQL)
+MYSQL has been used as the software for storage of data.
+The images describing the structure of the tables is attached below.
+It is necessary to import the JDBC driver and describe all the tables in MYSQL in accordance with the ER Diagram for the smooth functioning of the application.
+
+![](images/tables.PNG)
+
+
+![](images/hotel.PNG)
+
+
+![](images/room.PNG)
+
+
+![](images/facilities.PNG)
+
+
+![](images/customer.PNG)
+
+
+![](images/cancellation.PNG)
+
+
+![](images/left_customers.PNG)
